@@ -40,7 +40,7 @@ record = "22-4 (11-3 Big 12)"
 q1_data = {
     "Date": ["Jan 15", "Jan 22", "Feb 05", "Feb 12"],
     "Opponent": ["@ Houston", "vs Baylor", "vs Iowa St", "@ Arizona"],
-    "Loc": ["✈️", "🏠", "🤝", "✈️"],
+    "Loc": ["AWAY", "HOME", "NEUTRAL", "AWAY"],
     "Opp NET": [1, 12, 10, 8],
     "Result": ["L", "W", "W", "W"],
     "Score": ["68-75", "82-74", "70-65", "77-72"]
